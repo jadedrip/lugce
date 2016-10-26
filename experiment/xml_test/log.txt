@@ -1,0 +1,1540 @@
+<
+equal
+	name=
+	attrname=
+	attrvalue=
+
+<?
+machine_node_begin
+	name=
+	attrname=
+	attrvalue=
+
+<?x
+
+<?xm
+
+<?xml
+
+<?xml 
+
+<?xml v
+skip_space
+	name=xml
+	attrname=
+	attrvalue=
+
+<?xml ve
+machine_attrib_name
+	name=xml
+	attrname=v
+	attrvalue=
+
+<?xml ver
+machine_attrib_name
+	name=xml
+	attrname=ve
+	attrvalue=
+
+<?xml vers
+machine_attrib_name
+	name=xml
+	attrname=ver
+	attrvalue=
+
+<?xml versi
+machine_attrib_name
+	name=xml
+	attrname=vers
+	attrvalue=
+
+<?xml versio
+machine_attrib_name
+	name=xml
+	attrname=versi
+	attrvalue=
+
+<?xml version
+machine_attrib_name
+	name=xml
+	attrname=versio
+	attrvalue=
+
+<?xml version=
+machine_attrib_name
+	name=xml
+	attrname=version
+	attrvalue=
+
+<?xml version='
+skip_space
+	name=xml
+	attrname=version
+	attrvalue=
+equal
+	name=xml
+	attrname=version
+	attrvalue=
+
+<?xml version='1
+machine_attrib_value
+	name=xml
+	attrname=version
+	attrvalue=
+
+<?xml version='1.
+machine_attrib_value
+	name=xml
+	attrname=version
+	attrvalue=1
+
+<?xml version='1.0
+machine_attrib_value
+	name=xml
+	attrname=version
+	attrvalue=1.
+
+<?xml version='1.0'
+machine_attrib_value
+	name=xml
+	attrname=version
+	attrvalue=1.0
+
+<?xml version='1.0' 
+
+<?xml version='1.0' e
+skip_space
+	name=xml
+	attrname=version
+	attrvalue=1.0
+
+<?xml version='1.0' en
+machine_attrib_name
+	name=xml
+	attrname=e
+	attrvalue=1.0
+
+<?xml version='1.0' enc
+machine_attrib_name
+	name=xml
+	attrname=en
+	attrvalue=1.0
+
+<?xml version='1.0' enco
+machine_attrib_name
+	name=xml
+	attrname=enc
+	attrvalue=1.0
+
+<?xml version='1.0' encod
+machine_attrib_name
+	name=xml
+	attrname=enco
+	attrvalue=1.0
+
+<?xml version='1.0' encodi
+machine_attrib_name
+	name=xml
+	attrname=encod
+	attrvalue=1.0
+
+<?xml version='1.0' encodin
+machine_attrib_name
+	name=xml
+	attrname=encodi
+	attrvalue=1.0
+
+<?xml version='1.0' encoding
+machine_attrib_name
+	name=xml
+	attrname=encodin
+	attrvalue=1.0
+
+<?xml version='1.0' encoding=
+machine_attrib_name
+	name=xml
+	attrname=encoding
+	attrvalue=1.0
+
+<?xml version='1.0' encoding='
+skip_space
+	name=xml
+	attrname=encoding
+	attrvalue=
+equal
+	name=xml
+	attrname=encoding
+	attrvalue=
+
+<?xml version='1.0' encoding='U
+machine_attrib_value
+	name=xml
+	attrname=encoding
+	attrvalue=
+
+<?xml version='1.0' encoding='UT
+machine_attrib_value
+	name=xml
+	attrname=encoding
+	attrvalue=U
+
+<?xml version='1.0' encoding='UTF
+machine_attrib_value
+	name=xml
+	attrname=encoding
+	attrvalue=UT
+
+<?xml version='1.0' encoding='UTF-
+machine_attrib_value
+	name=xml
+	attrname=encoding
+	attrvalue=UTF
+
+<?xml version='1.0' encoding='UTF-8
+machine_attrib_value
+	name=xml
+	attrname=encoding
+	attrvalue=UTF-
+
+<?xml version='1.0' encoding='UTF-8'
+machine_attrib_value
+	name=xml
+	attrname=encoding
+	attrvalue=UTF-8
+
+<?xml version='1.0' encoding='UTF-8' 
+
+<?xml version='1.0' encoding='UTF-8' ?
+skip_space
+	name=xml
+	attrname=encoding
+	attrvalue=UTF-8
+
+<?xml version='1.0' encoding='UTF-8' ?>
+skip_space
+	name=xml
+	attrname=encoding
+	attrvalue=
+equal
+	name=xml
+	attrname=encoding
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><
+skip_space
+	name=xml
+	attrname=encoding
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><p
+machine_node_begin
+	name=
+	attrname=encoding
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><pr
+
+<?xml version='1.0' encoding='UTF-8' ?><pre
+
+<?xml version='1.0' encoding='UTF-8' ?><pres
+
+<?xml version='1.0' encoding='UTF-8' ?><prese
+
+<?xml version='1.0' encoding='UTF-8' ?><presen
+
+<?xml version='1.0' encoding='UTF-8' ?><presenc
+
+<?xml version='1.0' encoding='UTF-8' ?><presence
+
+<?xml version='1.0' encoding='UTF-8' ?><presence 
+
+<?xml version='1.0' encoding='UTF-8' ?><presence x
+skip_space
+	name=presence
+	attrname=encoding
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xm
+machine_attrib_name
+	name=presence
+	attrname=x
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xml
+machine_attrib_name
+	name=presence
+	attrname=xm
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmln
+machine_attrib_name
+	name=presence
+	attrname=xml
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns
+machine_attrib_name
+	name=presence
+	attrname=xmln
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns=
+machine_attrib_name
+	name=presence
+	attrname=xmlns
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='
+skip_space
+	name=presence
+	attrname=xmlns
+	attrvalue=
+equal
+	name=presence
+	attrname=xmlns
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='u
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='ur
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=u
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=ur
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:i
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ie
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:i
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:iet
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ie
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:iet
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:p
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:pa
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:p
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:par
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:pa
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:para
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:par
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:param
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:para
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:param
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:x
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xm
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:x
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xm
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:n
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:n
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:ns
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:p
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:ns:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pi
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:ns:p
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pid
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:ns:pi
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:ns:pid
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf'
+machine_attrib_value
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' 
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' e
+skip_space
+	name=presence
+	attrname=xmlns
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' en
+machine_attrib_name
+	name=presence
+	attrname=e
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' ent
+machine_attrib_name
+	name=presence
+	attrname=en
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' enti
+machine_attrib_name
+	name=presence
+	attrname=ent
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entit
+machine_attrib_name
+	name=presence
+	attrname=enti
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity
+machine_attrib_name
+	name=presence
+	attrname=entit
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity=
+machine_attrib_name
+	name=presence
+	attrname=entity
+	attrvalue=urn:ietf:params:xml:ns:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='
+skip_space
+	name=presence
+	attrname=entity
+	attrvalue=
+equal
+	name=presence
+	attrname=entity
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='s
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='si
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=s
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=si
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:0
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:05
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:0
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:05
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:0571
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:05718
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:0571
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:05718
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:0571819
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:05718193
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:0571819
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:05718193
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:0571819305
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:05718193055
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:0571819305
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:05718193055
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@e
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ec
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@e
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecp
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ec
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecpl
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecp
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecpli
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecpl
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecpliv
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecpli
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecpliv
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecplive
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.c
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecplive.
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.co
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecplive.c
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecplive.co
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com'
+machine_attrib_value
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' 
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' x
+skip_space
+	name=presence
+	attrname=entity
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xm
+machine_attrib_name
+	name=presence
+	attrname=x
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xml
+machine_attrib_name
+	name=presence
+	attrname=xm
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmln
+machine_attrib_name
+	name=presence
+	attrname=xml
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns
+machine_attrib_name
+	name=presence
+	attrname=xmln
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:
+machine_attrib_name
+	name=presence
+	attrname=xmlns
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:e
+machine_attrib_name
+	name=presence
+	attrname=xmlns:
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex
+machine_attrib_name
+	name=presence
+	attrname=xmlns:e
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex=
+machine_attrib_name
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=sip:057181930558@ecplive.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='
+skip_space
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=
+equal
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='w
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='ww
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=w
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=ww
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.z
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zt
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.z
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.zt
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.zte
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.c
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.zte.
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.co
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.zte.c
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.zte.co
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com'
+machine_attrib_value
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' 
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' x
+skip_space
+	name=presence
+	attrname=xmlns:ex
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xm
+machine_attrib_name
+	name=presence
+	attrname=x
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xml
+machine_attrib_name
+	name=presence
+	attrname=xm
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmln
+machine_attrib_name
+	name=presence
+	attrname=xml
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns
+machine_attrib_name
+	name=presence
+	attrname=xmln
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:
+machine_attrib_name
+	name=presence
+	attrname=xmlns
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:l
+machine_attrib_name
+	name=presence
+	attrname=xmlns:
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:lo
+machine_attrib_name
+	name=presence
+	attrname=xmlns:l
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:loc
+machine_attrib_name
+	name=presence
+	attrname=xmlns:lo
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:loca
+machine_attrib_name
+	name=presence
+	attrname=xmlns:loc
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local
+machine_attrib_name
+	name=presence
+	attrname=xmlns:loca
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local=
+machine_attrib_name
+	name=presence
+	attrname=xmlns:local
+	attrvalue=www.zte.com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='
+skip_space
+	name=presence
+	attrname=xmlns:local
+	attrvalue=
+equal
+	name=presence
+	attrname=xmlns:local
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='u
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='ur
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=u
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=ur
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:e
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:ex
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:e
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:exa
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:ex
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:exam
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:exa
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:examp
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:exam
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:exampl
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:examp
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:exampl
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-c
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-co
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-c
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-co
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:p
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pi
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:p
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pid
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pi
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pid
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-s
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-st
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-s
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-sta
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-st
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-stat
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-sta
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-statu
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-stat
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-statu
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-status
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-t
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-status-
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-ty
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-status-t
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-typ
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-status-ty
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-status-typ
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'
+machine_attrib_value
+	name=presence
+	attrname=xmlns:local
+	attrvalue=urn:example-com:pidf-status-type
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><
+skip_space
+	name=presence
+	attrname=xmlns:local
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><t
+machine_node_begin
+	name=
+	attrname=xmlns:local
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tu
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tup
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tupl
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple 
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple i
+skip_space
+	name=tuple
+	attrname=xmlns:local
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id
+machine_attrib_name
+	name=tuple
+	attrname=i
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=
+machine_attrib_name
+	name=tuple
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id='
+skip_space
+	name=tuple
+	attrname=id
+	attrvalue=
+equal
+	name=tuple
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''
+machine_attrib_value
+	name=tuple
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><
+skip_space
+	name=tuple
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><s
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><st
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><sta
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><stat
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><statu
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><
+skip_space
+	name=status
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><b
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><ba
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><bas
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basi
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>o
+skip_space
+	name=basic
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>op
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>ope
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open<
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=open
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</b
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=open
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</ba
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</bas
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basi
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic><
+skip_space
+	name=basic
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></s
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></st
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></sta
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></stat
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></statu
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><
+skip_space
+	name=status
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><e
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:l
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:lo
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:loc
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:loca
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:locat
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:locati
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:locatio
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>1
+skip_space
+	name=ex:location
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>10
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100<
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=100
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</e
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=100
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:l
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:lo
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:loc
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:loca
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:locat
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:locati
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:locatio
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><
+skip_space
+	name=ex:location
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><n
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><no
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><not
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>O
+skip_space
+	name=note
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>On
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Onl
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Onli
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Onlin
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online<
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=Online
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</n
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=Online
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</no
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</not
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><
+skip_space
+	name=note
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><b
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bw
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwr
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwru
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrul
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0
+skip_space
+	name=bwrule
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0<
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=0
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</b
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=0
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bw
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwr
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwru
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrul
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule><
+skip_space
+	name=bwrule
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></t
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tu
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tup
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tupl
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple>
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple><
+skip_space
+	name=tuple
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></p
+machine_node_begin
+	name=
+	attrname=id
+	attrvalue=
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></pr
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></pre
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></pres
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></prese
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></presen
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></presenc
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></presence
+
+<?xml version='1.0' encoding='UTF-8' ?><presence xmlns='urn:ietf:params:xml:ns:pidf' entity='sip:057181930558@ecplive.com' xmlns:ex='www.zte.com' xmlns:local='urn:example-com:pidf-status-type'><tuple id=''><status><basic>open</basic></status><ex:location>100</ex:location><note>Online</note><bwrule>0</bwrule></tuple></presence>
+
